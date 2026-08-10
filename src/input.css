@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-2xs: 24rem;
+  --breakpoint-xs: 32rem;
+  --font-mati: "Mali", cursive;
+  --color-sage-50: oklch(0.981 0.0392 132.39);
+  --color-sage-200: oklch(0.8127 0.0689 138.46);
+  --color-sage-500: oklch(0.6381 0.0547 138.88);
+}
+
+iframe.instagram-media { 
+  min-width: unset !important; 
+}
+
+.max-w-80svw {
+  max-width: 80svw !important;
+  aspect-ratio: auto;
+}
+
+.mali-extralight {
+  font-family: "Mali", cursive;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.mali-light {
+  font-family: "Mali", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.mali-regular {
+  font-family: "Mali", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mali-medium {
+  font-family: "Mali", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.mali-semibold {
+  font-family: "Mali", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.mali-bold {
+  font-family: "Mali", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.mali-extralight-italic {
+  font-family: "Mali", cursive;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.mali-light-italic {
+  font-family: "Mali", cursive;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.mali-regular-italic {
+  font-family: "Mali", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.mali-medium-italic {
+  font-family: "Mali", cursive;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.mali-semibold-italic {
+  font-family: "Mali", cursive;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.mali-bold-italic {
+  font-family: "Mali", cursive;
+  font-weight: 700;
+  font-style: italic;
+}
