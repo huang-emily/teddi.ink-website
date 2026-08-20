@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@tailwindcss/cli": "^4.3.3",
-    "firebase": "^12.17.1",
-    "tailwindcss": "^4.3.3"
-  }
-}
