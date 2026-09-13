@@ -1,1 +1,1 @@
-# teddi.ink-website
+# teddi-ink-website
